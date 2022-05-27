@@ -4,6 +4,11 @@
 - 🔭 Apaixonado por tecnologia e jogos! 
 - 🌱 Estudante da Kenzie Academy Brasil e futuro Full Stack Developer!
 - :open_book: Escritor entusiasta!
+- :green_book: Amante de HTML e CSS (este último em constante aprendizado)
+- As soft skills que se sobressaem em mim são a perseverança perante as dificuldades e a habilidade de trabalhar sobre pressão! Empatia com o próximo e uma boa comunicação são as chaves para o sucesso tanto pessoal quanto profissional!
+
+
+##
 
 <div align="center">
   <a href="https://github.com/Bravineugenio">
