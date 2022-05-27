@@ -4,7 +4,7 @@
 - 🔭 Apaixonado por tecnologia e jogos! 
 - 🌱 Estudante da Kenzie Academy Brasil e futuro Full Stack Developer!
 - :open_book: Escritor entusiasta!
-- 
+
 <div align="center">
   <a href="https://github.com/Bravineugenio">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bravineugenio&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
